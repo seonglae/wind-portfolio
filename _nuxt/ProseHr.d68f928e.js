@@ -1,0 +1,1 @@
+import{k as e,b as _,c as r}from"./entry.abcf552f.js";const s={},c={class:"prose-hr"};function o(t,n){return _(),r("hr",c)}const d=e(s,[["render",o],["__scopeId","data-v-f382ec21"]]);export{d as default};
