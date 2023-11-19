@@ -1,1 +1,0 @@
-import{k as t,b as _,c as s,a0 as o}from"./entry.abcf552f.js";const n={},a={class:"prose-thead"};function r(e,c){return _(),s("thead",a,[o(e.$slots,"default",{},void 0,!0)])}const l=t(n,[["render",r],["__scopeId","data-v-b0833b8e"]]);export{l as default};
